@@ -2,17 +2,13 @@
 
 ## Front-End
 
-📝 Visit [Front-End_Notes.md](./Front-End_Notes.md) for detailed notes.
-
 ### HTML
 
 - [Dave Gray](https://youtu.be/mJgBOIoGihA?si=gZCboWvrijUOqFjH) <span title='&#10003;' style="cursor: pointer;">&#8520;</span>
 
-📝 Visit [HTML-CSS](https://github.com/Aravindray/HTML-CSS) for notes
-
 ### CSS
 
-1. [Dave Gray with freeCodeCamp](https://youtu.be/OXGznpKZ_sA?si=2WQJNEUuVA5-7iDL) <span title='&#10003;' style="cursor: pointer;">&#8520;</span>
+- [Dave Gray with freeCodeCamp](https://youtu.be/OXGznpKZ_sA?si=2WQJNEUuVA5-7iDL) <span title='&#10003;' style="cursor: pointer;">&#8520;</span>
 
 ### JavaScript
 
