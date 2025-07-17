@@ -77,11 +77,21 @@
 - ├── Operating System /
   - └── Think OS V0.7.4.pdf
 - └── Productivity /
-  - ├── 2020-Scrum-Guide-Tamil-3.0.pdf
+  - ├── 2020-Scrum-Guide-Tamil-3.0.pdf | <span title="Yet to Read">📚</span>
   - ├── 2020-Scrum-Guide-US.pdf
   - ├── The Code Challenge Book.pdf
   - └── Visual Studio Code Keyboard Shortcuts.pdf
 
+# Naming / Icon Conventions
+
+- Yet to Read - <span title="Yet to Read" style="cursor: pointer;">📚</span>
+- For Notes - <span title='learned little' style="cursor: pointer;">📝</span>
+
+- To indicate status use - <span title='&#10003;' style="cursor: pointer;">&#8520;</span>
+- For correct or completed use - &#10003;
+- For Not correct or not completed use - &#10007;
+
+---
 
 <style>
   ul {
