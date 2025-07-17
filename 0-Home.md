@@ -70,7 +70,17 @@
 
 # Notes
 
-### File Structure
+### File Structures
+
+- ├── assets
+- ├── Placement-Aptitude
+  - ├── [English.md](https://github.com/Aravindray/Notes/blob/main/Placement-Aptitude/English.md)
+  - ├── [Quants.md](https://github.com/Aravindray/Notes/blob/main/Placement-Aptitude/Quants.md)
+  - └── [Reasoning.md](https://github.com/Aravindray/Notes/blob/main/Placement-Aptitude/Reasoning.md)
+- ├── [ECE-Curriculum.md](https://github.com/Aravindray/Notes/blob/main/ECE-Curriculum.md)
+- ├── [Extra.md](https://github.com/Aravindray/Notes/blob/main/Extra.md)
+- ├── [How-to-Buy.md](https://github.com/Aravindray/Notes/blob/main/How-to-Buy.md)
+- └── [How-to-do-it.md](https://github.com/Aravindray/Notes/blob/main/How-to-do-it.md)
 
 # PostgreSQL
 
@@ -149,13 +159,13 @@
 - [MySQL](#mysql)
     - [File Structure](#file-structure-5)
 - [Notes](#notes)
-    - [File Structure](#file-structure-6)
-- [PostgreSQL](#postgresql)
-    - [File Structure](#file-structure-7)
-- [Python](#python)
-    - [File Structure](#file-structure-8)
-- [React](#react)
     - [File Structures](#file-structures)
+- [PostgreSQL](#postgresql)
+    - [File Structure](#file-structure-6)
+- [Python](#python)
+    - [File Structure](#file-structure-7)
+- [React](#react)
+    - [File Structures](#file-structures-1)
 - [Table of Content](#table-of-content)
 
 <style>

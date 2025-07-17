@@ -21,10 +21,6 @@
 
 1. [Scrimba - Learn React](https://scrimba.com/learn-react-c0e) part of [The Frontend Developer Career Path](https://scrimba.com/the-frontend-developer-career-path-c0j) in collaboration with [Mozilla MDN](https://developer.mozilla.org/en-US/curriculum/)
 
-### Graphic Design
-
-#### Figma
-
 ## Backend
 
 ### Python
@@ -50,21 +46,24 @@
 
 1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) <span title='Reading...' style="cursor: pointer;">&#8520;</span> <span title='I bought it just ₹1,500' style="cursor: pointer;">📝</span>
 
-## Practice
+## DevOps
 
-1. [CSSBattle](https://cssbattle.dev/) [Notes: Logged in using Google]
-2. [SuperSimpleDev - HTML & CSS](https://youtu.be/G3e-cpL7ofc?si=_HUmOT5nyIUCzSvb) [Status: Yet to Watch]
-3. [SuperSimpleDev - JavaScript](https://youtu.be/EerdGm-ehJQ?si=vUNV5R50UdUt6iKx) [Status: Yet to Watch]
-4. [Codewars](https://www.codewars.com/) [Notes: Logged in using Google]
-5. [CodePen](https://codepen.io/trending) [Notes: Logged in using Google]
-6. [Penpot](https://penpot.app/) [Notes: Logged in using Google]
-7. [Figma](https://www.figma.com/) [Notes: Logged in using Google]
-8. [Coding Game](https://www.codingame.com/) [Notes: Logged in using Google]
-9. [Frontend Practice](https://www.frontendpractice.com/)
-10. [Frontend Mentor](https://www.frontendmentor.io/) (Notes: Logged in using Github)
-11. [Style Stage](https://stylestage.dev/)
-12. [First Timers Only](https://www.firsttimersonly.com/) no idea, need to explore more
+### Git and GitHub
 
+### Docker
+
+### Kubernetes
+
+## Tools
+
+### To Design
+
+- Penpot
+- Figma
+
+### To Develop
+
+- VS Code
 
 # Naming / Icon Conventions
 
