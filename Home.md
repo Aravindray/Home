@@ -43,17 +43,35 @@
   - └── [Pagination.md](https://github.com/Aravindray/Django/blob/main/5-Views/Pagination.md)
 - ├── 6-Templates /
   - └── [1-Templates-Intro.md](https://github.com/Aravindray/Django/blob/main/6-Templates/1-Templates-Intro.md)
-- ├── 99-Extra /
-  - └── [Sitemap.md](https://github.com/Aravindray/Django/blob/main/99-Extra/Sitemap.md)
-  - └── [Taggit.md](https://github.com/Aravindray/Django/blob/main/99-Extra/Taggit.md)
+- ├── 98-Extra /
+  - └── [Sitemap.md](https://github.com/Aravindray/Django/blob/main/98-Extra/Sitemap.md)
+  - └── [Taggit.md](https://github.com/Aravindray/Django/blob/main/98-Extra/Taggit.md)
 - ├── 100-Notes /
   - └── [How-to-do-it.md](https://github.com/Aravindray/Django/blob/main/100-Notes/How-to-do-it.md)
 - ├── [Dj-Upcoming-Activities.md](./Dj-Upcoming-Activities.md)
 
 # HTML-CSS
+
+### File Structure
+
+- ├── [README.md](https://github.com/Aravindray/HTML-CSS/blob/main/README.md)
+
 # JavaScript
+
+### File Structure
+
+- ├── [README.md](https://github.com/Aravindray/JavaScript/blob/main/README.md)
+
 # MySQL
+
+### File Structure
+
+- ├── [README.md](https://github.com/Aravindray/MySQL/blob/main/README.md)
+
 # Notes
+
+### File Structure
+
 # PostgreSQL
 
 ### File Structure
@@ -117,7 +135,7 @@
 - ├── [Intro.md](https://github.com/Aravindray/React/blob/main/Intro.md)
 
 
-## Table of Content
+# Table of Content
 - [Aravindray](#aravindray)
     - [File Structure](#file-structure)
 - [BudgetTracker (Private)](#budgettracker-private)
@@ -125,16 +143,20 @@
 - [Django](#django)
     - [File Structure](#file-structure-2)
 - [HTML-CSS](#html-css)
-- [JavaScript](#javascript)
-- [MySQL](#mysql)
-- [Notes](#notes)
-- [PostgreSQL](#postgresql)
     - [File Structure](#file-structure-3)
-- [Python](#python)
+- [JavaScript](#javascript)
     - [File Structure](#file-structure-4)
+- [MySQL](#mysql)
+    - [File Structure](#file-structure-5)
+- [Notes](#notes)
+    - [File Structure](#file-structure-6)
+- [PostgreSQL](#postgresql)
+    - [File Structure](#file-structure-7)
+- [Python](#python)
+    - [File Structure](#file-structure-8)
 - [React](#react)
     - [File Structures](#file-structures)
-  - [Table of Content](#table-of-content)
+- [Table of Content](#table-of-content)
 
 <style>
     ul {
