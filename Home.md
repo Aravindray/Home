@@ -159,7 +159,7 @@
 - [Table of Content](#table-of-content)
 
 <style>
-    ul {
-      list-style-type: none;
-    }
+  ul {
+    list-style-type: none;
+  }
 </style>
