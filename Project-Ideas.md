@@ -11,8 +11,9 @@
 
 - [ ] Personal Budget Tracker
 - [ ] Blog website look like YouTube style
-- [ ] Project Idea Tracker - Use jira
+- [ ] Project Idea Tracker - Use jira ?
 - [ ] Milestones Tracker
+- [ ] Create a website for store the diary to store daily tasks and to do
 
 ## Electronics
 
