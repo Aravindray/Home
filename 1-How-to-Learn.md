@@ -98,3 +98,4 @@
 6.  [Frontend Mentor](https://www.frontendmentor.io/) (Notes: Logged in using Github)
 7.  [Style Stage](https://stylestage.dev/)
 8.  [First Timers Only](https://www.firsttimersonly.com/) no idea, need to explore more
+9.  To workout Django projects - Visit https://github.com/ianshulx/Django-Projects-for-beginners
