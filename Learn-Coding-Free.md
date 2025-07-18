@@ -82,6 +82,7 @@ Free websites and books to learn coding / programming
 12. [dbooks](https://www.dbooks.org/)
 13. [Programming Notes for Professionals books by Goalkicker](https://goalkicker.com/)
 14. Tutorials from [DigitalOcean](https://www.digitalocean.com/community/tutorials)
+15. To Learn [Scrum](https://scrumguides.org/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
