@@ -50,6 +50,10 @@
 
 - Blender
 
+#### Audio Editing
+
+- Audacity
+
 #### Video Editing
 
 - Kdenlive
