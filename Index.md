@@ -4,7 +4,7 @@
 
 ### File Structure
 
-- ├── [README.md](https://github.com/Aravindray/Aravindray/blob/main/README.md)
+- └── [README.md](https://github.com/Aravindray/Aravindray/blob/main/README.md)
 
 ## Source-Code (Private)
 
@@ -15,7 +15,7 @@
 - ├── [music.py](https://github.com/Aravindray/Source-Code/blob/main/BudgetTracker/blob/main/music.py)
 - ├── [queries.sql](https://github.com/Aravindray/Source-Code/blob/main/BudgetTracker/blob/main/queries.sql)
 - ├── [script.py](https://github.com/Aravindray/Source-Code/blob/main/BudgetTracker/blob/main/script.py)
-- ├── [tables.sql](https://github.com/Aravindray/Source-Code/blob/main/BudgetTracker/blob/main/tables.sql)
+- └── [tables.sql](https://github.com/Aravindray/Source-Code/blob/main/BudgetTracker/blob/main/tables.sql)
 
 ## Django
 
@@ -51,25 +51,25 @@
   - └── [Taggit.md](obsidian://open?vault=Django&file=98-Extra%2FTaggit.md)
 - ├── 100-Notes /
   - └── [Dj-How-to-do-it.md](obsidian://open?vault=Django&file=100-Notes%2FDj-How-to-do-it.md)
-- ├── [Dj-Upcoming-Activities.md](obsidian://open?vault=Django&file=Dj-Upcoming-Activities)
+- └── [Dj-Upcoming-Activities.md](obsidian://open?vault=Django&file=Dj-Upcoming-Activities)
 
 ## HTML-CSS
 
 ### File Structure
 
-- ├── [README.md](#)
+- └── [README.md](#)
 
 ## JavaScript
 
 ### File Structure
 
-- ├── [README.md](obsidian://open?vault=JavaScript&file=README)
+- └── [README.md](obsidian://open?vault=JavaScript&file=README)
 
 ## MySQL
 
 ### File Structure
 
-- ├── [README.md](#)
+- └── [README.md](#)
 
 ## Notes
 
@@ -140,4 +140,4 @@
 
 ### File Structures
 
-- ├── [Intro.md](obsidian://open?vault=React&file=Intro.md)
+- └── [Intro.md](obsidian://open?vault=React&file=Intro.md)
